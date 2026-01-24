@@ -1,0 +1,12 @@
+timestamp,host,username,ip,raw_line
+2026-01-23 10:01:12,server,admin,192.168.1.10,Jan 23 10:01:12 server sshd[1234]: Failed password for invalid user admin from 192.168.1.10 port 54432 ssh2
+2026-01-23 10:01:15,server,root,192.168.1.10,Jan 23 10:01:15 server sshd[1234]: Failed password for root from 192.168.1.10 port 54433 ssh2
+2026-01-23 10:02:01,server,test,192.168.1.10,Jan 23 10:02:01 server sshd[1234]: Failed password for invalid user test from 192.168.1.10 port 54434 ssh2
+2026-01-23 10:02:30,server,root,10.0.0.5,Jan 23 10:02:30 server sshd[1234]: Failed password for root from 10.0.0.5 port 43321 ssh2
+2026-01-23 10:03:10,server,oracle,192.168.1.10,Jan 23 10:03:10 server sshd[1234]: Failed password for invalid user oracle from 192.168.1.10 port 54435 ssh2
+2026-01-23 10:03:50,server,root,10.0.0.5,Jan 23 10:03:50 server sshd[1234]: Failed password for root from 10.0.0.5 port 43322 ssh2
+2026-01-23 10:04:40,server,root,10.0.0.5,Jan 23 10:04:40 server sshd[1234]: Failed password for root from 10.0.0.5 port 43323 ssh2
+2026-01-23 10:05:10,server,guest,192.168.1.10,Jan 23 10:05:10 server sshd[1234]: Failed password for invalid user guest from 192.168.1.10 port 54436 ssh2
+2026-01-23 10:05:20,server,admin,192.168.1.10,Jan 23 10:05:20 server sshd[1234]: Failed password for invalid user admin from 192.168.1.10 port 54437 ssh2
+2026-01-23 10:05:50,server,root,192.168.1.10,Jan 23 10:05:50 server sshd[1234]: Failed password for root from 192.168.1.10 port 54438 ssh2
+2026-01-23 10:06:10,server,admin,192.168.1.10,Jan 23 10:06:10 server sshd[1234]: Failed password for invalid user admin from 192.168.1.10 port 54439 ssh2
