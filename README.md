@@ -1,6 +1,6 @@
 # linux-auth-log-monitor
 
-Security monitoring project that detects SSH brute-force attempts by analyzing Linux authentication logs.
+Detects SSH brute-force attacks by analyzing Linux authentication logs, identifying repeated failed login attempts, and flagging suspicious IP behavior patterns.
 
 ## Why I Built This
 
